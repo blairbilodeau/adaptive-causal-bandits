@@ -2,7 +2,7 @@ using Distributions
 using LinearAlgebra
 using Plots
 
-output_path = "/Users/blairbilodeau/Documents/Research/Projects/Online Causal Inference/adaptive-causal/adaptive-ucb/figures/"
+output_path = ".../figures/" # your file path here
 
 include("algorithms-paper.jl")
 
